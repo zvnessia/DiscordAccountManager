@@ -8,7 +8,7 @@ The Discord Account Manager is a simple desktop application for managing multipl
 - Copy Account Information: Double-click an account to copy its details to the clipboard in the format email:password:token (if a token is available).
 - Delete Accounts: Delete individual accounts or all accounts at once.
 - Customizable UI: The application features a transparent window with a minimalistic design, perfect for an overlay.
-- 
+  
 ## Installation
 1. Clone or download the repository to your local machine.
 2. Open the project in Visual Studio (or any compatible IDE).
